@@ -28,5 +28,6 @@ Tools: Git, GitHub, VS Code, Figma
  Writing cleaner, more maintainable code
 
 📫 Connect
-GitHub: StenaVicky
-LinkedIn: omalistenavicky
+
+[GitHub](https://github.com/StenaVicky)
+[LinkedIn](https://linkedin.com/in/omalistenavicky)
