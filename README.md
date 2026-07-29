@@ -29,5 +29,6 @@ Tools: Git, GitHub, VS Code, Figma
 
 📫 Connect
 
-* GitHub: https://github.com/StenaVicky
-* LinkedIn: https://linkedin.com/in/omalistenavicky
+*Connect
+⎆ github.com/StenaVicky
+⎇ linkedin.com/in/omalistenavicky
