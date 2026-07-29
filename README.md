@@ -1,4 +1,4 @@
- Hi there 👋, I'm Omali Stena Vicky
+Hi there 👋, I'm **Omali Stena Vicky**
 
 A Junior Software Developer
 
@@ -6,28 +6,28 @@ I'm a junior software developer with an interest in web development and backend 
 
 *ABOUT ME*
 
- 💻 Junior Software Developer
- 🌱 Currently learning Software Engineering and Backend Development
- 🛠️ Building web applications with Django
- 📚 Learning SOLID principles, design patterns, and Git
+💻 Junior Software Developer  
+🌱 Currently learning Software Engineering and Backend Development  
+🛠️ Building web applications with Django  
+📚 Learning SOLID principles, design patterns, and Git  
 
-  *TECH STACK*
+*TECH STACK*
 
-Languages:Python, TypeScript, JavaScript, HTML, CSS
+🐍 Languages: Python, TypeScript, JavaScript, HTML, CSS  
 
-Frameworks: Django, Bootstrap
+⚙️ Frameworks: Django, Bootstrap  
 
-Databases: PostgreSQL, SQLite
+🗄️ Databases: PostgreSQL, SQLite  
 
-Tools: Git, GitHub, VS Code, Figma
+🔧 Tools: Git, GitHub, VS Code, Figma  
 
- *CURRENT FOCUS*
+*CURRENT FOCUS*
 
- Building personal and academic projects
- Improving backend development skills
- Writing cleaner, more maintainable code
+🚀 Building personal and academic projects  
+⚡ Improving backend development skills  
+🧹 Writing cleaner, more maintainable code  
 
 *CONNECT*
 
-[GitHub](https://github.com/StenaVicky)
+[GitHub](https://github.com/StenaVicky)  
 [LinkedIn](https://linkedin.com/in/omalistenavicky)
