@@ -11,6 +11,7 @@ I'm a junior software developer with an interest in web development and backend 
 🛠️ Building web applications with Django  
 📚 Learning SOLID principles, design patterns, and Git  
 
+
 **🛠️ TECH STACK**
 
 🐍 Languages: Python, TypeScript, JavaScript, HTML, CSS  
@@ -21,13 +22,15 @@ I'm a junior software developer with an interest in web development and backend 
 
 🔧 Tools: Git, GitHub, VS Code, Figma  
 
+
 **🎯 CURRENT FOCUS**
 
 🚀 Building personal and academic projects  
 ⚡ Improving backend development skills  
 🧹 Writing cleaner, more maintainable code  
 
-*CONNECT*
+
+**🌐 CONNECT**
 
 [GitHub](https://github.com/StenaVicky)  
 [LinkedIn](https://linkedin.com/in/omalistenavicky)
